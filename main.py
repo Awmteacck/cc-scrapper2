@@ -3,10 +3,10 @@ from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import ChannelParticipantsRecent
 
-api_id = 123
-api_hash = 'xxx'
-phone_number = '+1234'
-channel_id = 1234
+api_id = 22658021
+api_hash = '6da533e7c45bc668182b5a0f5a4497dd'
+phone_number = '+918787651195'
+channel_id = -1002493542474
 
 # Iniciar sesión con Telethon
 client = TelegramClient('session_name', api_id, api_hash)
